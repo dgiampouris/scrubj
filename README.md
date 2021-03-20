@@ -15,6 +15,7 @@ Dependencies:
 
 [gcc-python-plugin](https://gcc-python-plugin.readthedocs.io/en/latest/basics.html#building-the-plugin-from-source)
 (select the branch that is correct for the gcc version you have installed).
+
 [pyzmq](http://zeromq.org/bindings:python)
 
 Make sure that you build the gcc python plugin correctly and 
